@@ -1,0 +1,14 @@
+{
+  "name": "gmall-web",
+  "private": true,
+  "version": "0.1.0",
+  "description": "this is gmall",
+  "author": "aiden",
+  "license": "ISC",
+  "dependencies": {
+    "gmall-utils": "workspace:^"
+  },
+  "scripts": {
+    "debug": "ts-node ./src/index.ts"
+  }
+}
